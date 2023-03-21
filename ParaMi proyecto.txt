@@ -1,0 +1,15 @@
+https://data.census.gov/
+
+ACS 1- Year Estimate Subject Tables. 2021
+
+1.- P2 Hispanic or Latino and not hispanic or latino by race
+
+
+2.- S1501 Educacional Attainment
+
+3. S0701 Geography mobility by selected characteristic in the Unite States
+
+4. S0506 Selected characteristic of the foreing born population by region of birth: Latin American
+
+Paso 1: Data wrangling - Limpieza de datos.
+Paso 1.1 : Empezar a usar git -- y publicar en github
