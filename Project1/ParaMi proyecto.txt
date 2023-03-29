@@ -30,17 +30,11 @@ Attribute Information
 
 
 
+Analisis teorico --> Estudio empresas textiles
+https://textilelearner.net/kpi-key-performance-indicator-in-garment-industry/
+
+Blog interesante acerca de textiles y calculo de kpi!!!
+https://learnpython.com/blog/first-python-dashboard/
 
 
 
-Paso 1: Data wrangling - Limpieza de datos.
-	- recordar resetear index en el dataset luego de borrar una columna. df.reset_index(drop=True, inplace=True)
-
-
-Describe --> the "describe" function automatically computes basic statistics for
-all numerical variables. It shows the mean, the total number of data
-points, the standard deviation, the quartiles and the extreme values. Any NaN values are
-automatically skipped in these statistics. This function will give you a clearer idea
-of the distribution of your different variables. You could have also categorical variables
-in your dataset. These are variables that can be divided up into different categories,
-Paso 1.1 : Empezar a usar git -- y publicar en github
