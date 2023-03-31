@@ -1,0 +1,28 @@
+The goals of the exploratory data analysis are:
+
+ to better understand your data, 
+
+ to evaluate if the given dataset is suitable for the K-Means clustering task. 
+
+You need to:
+
+Step 1: Load the given Banknote authentication dataset.  
+
+Step 2: Calculate statistical measures, e.g. mean and standard deviation. 
+
+Step 3: Visualise your data as you consider fit. 
+
+Step 4: Evaluate if the given dataset is suitable for the K-Means clustering task.
+
+Step 5: Write a short description of the dataset and your evaluation of its suitability for the K-Means clustering task.
+
+
+Review criteria
+menos 
+Once you have completed all five steps, you should submit a brief description of the dataset and your evaluation of its suitability for K-Means clustering.
+
+This description and evaluation will be assessed by your peers, who will check that it has the following characteristics:
+
+the description is informative and relies on statistical measures.
+
+the evaluation of the suitability is based on the characteristics of the dataset.
