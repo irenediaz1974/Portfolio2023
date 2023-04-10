@@ -1,0 +1,1 @@
+https://github.com/microsoft/vscode-jupyter/wiki/Loading-Kernels-from-insecure-directories
