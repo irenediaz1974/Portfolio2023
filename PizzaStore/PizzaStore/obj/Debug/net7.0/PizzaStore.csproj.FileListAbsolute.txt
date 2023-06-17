@@ -30,3 +30,6 @@ C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\obj\Debug\net7.0\refint
 C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.pdb
 C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.genruntimeconfig.cache
 C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\obj\Debug\net7.0\ref\PizzaStore.dll
+C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\T\VSJupyter\Portfolio2023\PizzaStore\PizzaStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
